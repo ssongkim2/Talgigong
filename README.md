@@ -7,7 +7,7 @@
   - [ ] SWEA
 
 - **난이도**:
-  - ddddddddd
+  - dddddddddㅇㅇㅇㅇㅇ
 
 - **사용한 알고리즘**
   - 
